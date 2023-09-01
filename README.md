@@ -4,7 +4,7 @@ Petstore provides an API that allows you to:
 - Add a new pet to the system
 - Find a pet purchase request
 
-This document shows you how to add and update pet data.
+This document shows you how to add pet data.
 
 ## Adding a new pet
 This service allows users to enter new pet data into the system.
