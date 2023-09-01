@@ -48,7 +48,7 @@ category    |{ }             |Contains the `id` and `name` parameters of the pet
 }`
  #### Response type:
  `application/json`
- #### Códigos de respuesta:
+ #### Response codes:
 - Code 200: Successful registration.
 - Code 405: Unsuccesful registration. One or more parameters are invalid.
  
