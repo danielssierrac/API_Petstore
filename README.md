@@ -65,4 +65,4 @@ ___
 6. From the drop-down menu, select **JSON**.
 7. In the text field, enter the request body in JSON format as shown in the [example](#example-of-a-request-body).
 8. Click **Send**.
-9. The expected result is `Status: 200 OK` with a JSON that includes the same pet data within the response body.
+The expected result is `Status: 200 OK` with a JSON that includes the same pet data within the response body.
