@@ -57,7 +57,9 @@ These instructions show you how to enter new pet data using the Postman console.
 ___
 > **&#9432;** **Note** You can also use these instructions in other API development consoles of your choice, but some specific options may vary.
 ___
-1. Open the Postman application.
+<img width="642" alt="Sample" src="https://github.com/danielssierrac/API_Petstore/assets/53789669/a2a9878e-77c2-4cd5-a127-09e3e51236ab">
+
+1. Open the Postman application and create a new tab.
 2. On the URL bar, select the **POST** method.
 3. On the URL bar, enter the following request URL: https://petstore.swagger.io/v2/pet
 4. Click on the **body** tab.
