@@ -58,6 +58,7 @@ ___
 > **&#9432;** **Note** You can also use these instructions in other API development consoles of your choice, but some specific options may vary.
 ___
 Below, an image of the Postman interface with the steps that you need to follow:
+
 <img width="639" alt="Sample 2" src="https://github.com/danielssierrac/API_Petstore/assets/53789669/330408f3-a7cc-457a-bbf7-43baceb8822c">
 
 1. Open the Postman application and create a new tab.
@@ -70,5 +71,6 @@ Below, an image of the Postman interface with the steps that you need to follow:
 8. Click **Send**.
  
 The expected result is `Status: 200 OK` with a JSON that includes the same pet data within the response body, as follows:
+
 <img width="641" alt="image" src="https://github.com/danielssierrac/API_Petstore/assets/53789669/e374ca2e-a619-4438-8e4b-0058c16e6c4f">
 
