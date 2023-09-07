@@ -62,12 +62,12 @@ Below, an image of the Postman interface with the steps that you need to follow:
 <img width="639" alt="Sample 2" src="https://github.com/danielssierrac/API_Petstore/assets/53789669/330408f3-a7cc-457a-bbf7-43baceb8822c">
 
 1. Open the Postman application and create a new tab.
-2. Locate the drop-down menu preceding the URL bar, select the **POST** method.
-3. On the URL bar, enter the following request URL: https://petstore.swagger.io/v2/pet
+2. Locate the drop-down menu before the URL bar, select the **POST** method.
+3. Enter the following request URL in the URL bar: https://petstore.swagger.io/v2/pet
 4. Click on the **body** tab.
 5. Select **raw**.
 6. From the drop-down menu, select **JSON**.
-7. In the text field, enter the request body in JSON format as shown in the [example](#example-of-a-request-body).
+7. In the text field, input the request body in JSON format as shown in the [example](#example-of-a-request-body).
 8. Click **Send**.
  
 The expected result is `Status: 200 OK` with a JSON that includes the same pet data within the response body, as follows:
